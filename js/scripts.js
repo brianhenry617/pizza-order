@@ -30,9 +30,9 @@ theToppings.prototype.total = function () {
 }):
 }):
 }):
-}):
-}):
-}):
-}):
 
 // Front End
+
+// Get the value from size and topping forms
+var pizzaSize = "form#size".val();
+var pizzaToppings = "form#theToppings".val();
