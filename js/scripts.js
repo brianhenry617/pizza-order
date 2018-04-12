@@ -8,6 +8,9 @@ size.prototype.total = function () {
       price = 7.43
     }else (this.size === "large") {
       price = 12.99
+}):
+}):
+}):
 
 // Function for pricing the size
 theToppings.prototype.total = function () {
@@ -24,5 +27,12 @@ theToppings.prototype.total = function () {
       price = 1.00;
     }else (this.size === "tomatoes") {
       price = 0.15;
+}):
+}):
+}):
+}):
+}):
+}):
+}):
 
 // Front End
